@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ndet0
 - 👀 I’m excited to collaborate or dive into new challenges together.
 - 🌱 I’m currently learning ...Full-stack web development at Moringa School
-- 📫 How to reach me ...https://www.linkedin.com/in/festus-ndeto-500227262/
+- 📫 How to reach me ...https://festusdev.netlify.app/
 - 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I love Dogs
 
